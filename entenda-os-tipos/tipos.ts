@@ -17,4 +17,4 @@ function imprimirCoordenadas(pt: {x: number; y: number}) {
 
 imprimirCoordenadas({ x: 3, y: 7 });
 
-let obj: {x: number; y: number} = { x: 3, y: 7};
+// let obj: {x: number; y: number} = { x: 3, y: 7};
