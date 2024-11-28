@@ -5,5 +5,5 @@ type Custumer =  {
 
 function showCostumerInfo(custumer: Custumer) {
     console.log(`O nome do cliente é: ${custumer.name}`);
-    console.log(`A idade do cliente é: ${costumer.age}`);  
+    console.log(`A idade do cliente é: ${custumer.age}`);  
 }
